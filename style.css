@@ -1,0 +1,20 @@
+@media screen and (max-width:768px) {
+    .col-auto img {
+        margin-top: -100px;
+        width: 300px;
+    }
+}
+
+@media screen and (max-width:1024px) {
+     .col-auto img {
+        margin-top: -100px;
+        width: 400px;
+    }
+}
+
+@media screen and (max-width:1440px) {
+      .col-auto img {
+        margin-top: -100px;
+        width: 500px;
+    }
+}
